@@ -1,3 +1,3 @@
 def greeting(name)
-  puts "Hi #{name}!, Welcome to the world of programming"
+  puts "Hi #{name}!. It's nice to meet you"
 end
